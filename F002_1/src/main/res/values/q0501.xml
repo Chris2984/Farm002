@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="q0501_descr">說明:</string>
+    <string name="q0501_t001">選擇:</string>
+    <string name="q0501_name">名稱:</string>
+    <string name="q0501_add">住址:</string>
+    <string name="q0501_img">圖片</string>
+    <string name="q0501_opendata">匯入opendata</string>
+    <string name="q0501_title">請稍等</string>
+    <string name="q0501_message">執行中...</string>
+    <string name="q0501_ncount">共計:</string>
+
+    <string name="q0501_Zipcode">郵遞區號:</string>
+<!--menu item命名-->
+    <string name="q0501_it001">跳到首筆</string>
+    <string name="q0501_it002">跳到尾筆</string>
+    <string name="q0501_it003">-100</string>
+    <string name="q0501_it004">+100</string>
+    <string name="q0501_it005">重新載入</string>
+    <string name="q0501_it006">跳頁</string>
+    <string name="q0501_it007">許願清單</string>
+    <string name="action_settings">結束</string>
+    <!--menu-->
+    <string name="q0501_loadover">重新載入完成</string>
+    <string name="q0501_website">網址</string>
+    <string name="q0501_px01">經度</string>
+    <string name="q0501_py01">緯度</string>
+    <string name="q0501_dialog_title">☆☆取得許可登記證之休閒農場☆☆</string>
+    <string name="q0501_dialog_b001">要下載休閒農場的介紹嗎?</string>
+    <string name="q0501_dialog_t001">詢問:</string>
+    <string name="q0501_dialog_positive">是</string>
+    <string name="q0501_dialog_negative">否</string>
+    <string name="q0501_dialog_neutral">取消</string>
+    <string name="q0501_loading">下載中...</string>
+    <string name="q0501_t100">電話:</string>
+    <string name="q0501_t101">名稱:</string>
+    <string name="q0501_t102">電話:</string>
+    <string name="q0501_t103">備註1:</string>
+    <string name="q0501_t107">請填入資料</string>
+    <string name="q0501_b101">新增</string>
+    <string name="q0501_t104">資料數共計:</string>
+    <string name="q0501_t105">請輸入資料</string>
+
+    <string name="q0501_t108">資料data</string>
+    <string name="q0501_t106">資料表...</string>
+
+    <string name="q0501_t109">願望清單第一頁</string>
+    <string name="q0501_msub_action_settings">回到主程式</string>
+    <string name="q0501_msub_c001">新增</string>
+    <string name="q0501_msub_r001">查詢列表</string>
+    <string name="q0501_msub_u001">更新/刪除</string>
+    <string name="q0501_msub_d001">清空許願清單</string>
+
+
+    <string name="q0501_t900">許願清單-新增</string>
+    <string name="q0501_t110">備註2:</string>
+
+    <string name="q0501_b001">前往網站</string>
+    <string name="q0501_b002">電話聯絡</string>
+    <string name="q0501_b003">地圖搜尋</string>
+    <string name="q0501_b004">加入願望清單</string>
+
+    <string name="q0501_b102">取消</string>
+    <string name="q0501_b103">查詢</string>
+    <string name="q0501_b104">首筆</string>
+    <string name="q0501_b105">上一筆</string>
+    <string name="q0501_b106">下一筆</string>
+    <string name="q0501_b107">尾筆</string>
+    <string name="q0501_b108">更新</string>
+    <string name="q0501_b109">刪除</string>
+    <string name="q0501_msub_sql01">重新載入</string>
+    <string name="q0501_t111">ID</string>
+    <string name="q0501_b110">取消列表</string>
+    <string name="q0501_c001_subtitle">資料內容</string>
+    <string name="q0501_t112">共計:</string>
+
+    <string name="q0501_t113">伺服機狀態</string>
+    <!--0823 2~10-->
+    <string name="q0501_t115">顯示第幾筆/共幾筆</string>
+    <string name="q0501_t901">許願清單-查詢</string>
+    <string name="q0501_t105_1">系統ID</string>
+    <string name="q0501_t903">許願清單-更新刪除</string>
+    <string name="q0501_dialog_title01">清空所有清單資料</string>
+    <string name="q0501_dialog_t002">清單"全部清空"後無法復原，確認要刪除?</string>
+    <string name="q0501_pic">圖片</string>
+    <string name="q0501_c002_list">列表清單</string>
+    <!--0823    -->
+    <string name="q0501_b111">查詢位置</string>
+    <string name="q0501_b112">電話連絡</string>
+    <string name="q0501_menu_r001">查詢許願清單</string>
+    <string name="q0501_menu_u001">更新許願清單</string>
+    <string name="q0501_leave">點選右上角[...]可選擇其他功能， 螢幕下拉可下載農場介紹!</string>
+    <string name="q0501_hint01">資料空白無法新增 !</string>
+    <string name="q0501_hint02">筆</string>
+    <string name="q0501_hint04">\"抱歉，您未申請撥打電話權限，請重新開啟app再申請!\"</string>
+    <string name="dialog_msg_call">需要得到撥打電話權限</string>
+    <!--0904    -->
+
+</resources>

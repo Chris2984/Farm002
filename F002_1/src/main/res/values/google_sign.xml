@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- TODO(user): replace with your real server client ID -->
+<!-- Server Client ID.  This should be a valid Web OAuth 2.0 Client ID obtained
+     from https://console.cloud.google.com/apis/credentials/oauthclient/622369802436-cp7ej7bo34daonsflb27s0rq6tb0jdok.apps.googleusercontent.com?project=groovy-axis-321207-->
+<!--    https://developers.google.com/identity/sign-in/android/start-integrating-->
+
+        <string name="server_client_id" translatable="false">16180965216-p4i7002saumsv8ccglupfdv3d3bj03mt.apps.googleusercontent.com</string>
+<!--    <string name="server_client_id" translatable="false">622369802436-6trseuepkor0n6s2m8o8644kllf4lufn.apps.googleusercontent.com</string>-->
+
+</resources>
+

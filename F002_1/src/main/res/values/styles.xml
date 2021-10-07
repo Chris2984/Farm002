@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/farm6</item>
+        <item name="colorPrimaryDark">@color/farm5</item>
+        <item name="colorAccent">@color/darkred</item>
+        <item name="titleTextColor">@color/farm4</item>
+        <item name="textAllCaps">false</item>
+        <item name="android:icon">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <!--下面是日期格式-->
+    <style name="MyDatePicker" parent="@style/Widget.MaterialComponents.MaterialCalendar.Day.Selected">
+        <item name="android:textColorPrimary">@color/Navy</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textSize">@dimen/sp24</item>
+        <item name="android:textStyle">bold</item>
+
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="MyTimePicker" parent="@style/MyDatePicker">
+        <item name="android:textColorPrimary">@android:color/holo_blue_light</item>
+        <item name="android:textSize">@dimen/sp24</item>
+    </style>
+
+    <style name="RatingBar" parent="Theme.AppCompat">
+
+        <item name="titleTextColor">@color/white</item>
+        <item name="colorControlNormal">@color/Gray</item>
+        <item name="colorControlActivated">@android:color/holo_orange_light</item>
+    </style>
+</resources>

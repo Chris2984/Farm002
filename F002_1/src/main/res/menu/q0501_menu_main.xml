@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/q0501_menu_back"
+        android:icon="@android:drawable/ic_media_previous"
+        android:title="@string/q0501_it003"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/q0501_menu_next"
+        android:icon="@android:drawable/ic_media_next"
+        android:title="@string/q0501_it004"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/q0501_menu_s001"
+        android:orderInCategory="90"
+        android:title="@string/q0501_it006">
+        <menu>
+            <item
+                android:id="@+id/q0501_menu_end"
+                android:orderInCategory="92"
+                android:title="@string/q0501_it002" />
+            <item
+                android:id="@+id/q0501_menu_top"
+                android:orderInCategory="91"
+                android:title="@string/q0501_it001" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/q0501_menu_log01"
+        android:orderInCategory="900"
+        android:title="@string/q0501_menu_log01" />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="999"
+        android:title="@string/action_settings" />
+    <item
+        android:id="@+id/q0501_menu_list01"
+        android:orderInCategory="200"
+        android:title="@string/q0501_it007">
+        <menu>
+            <item
+                android:id="@+id/q0501_menu_r001"
+                android:orderInCategory="104"
+                android:title="@string/q0501_menu_r001" />
+            <item
+                android:id="@+id/q0501_menu_u001"
+                android:orderInCategory="105"
+                android:title="@string/q0501_menu_u001" />
+        </menu>
+    </item>
+</menu>

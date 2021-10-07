@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">悠遊農場2.0版</string>
+    <string name="desc_google_icon">Google Logo</string>
+    <string name="signed_out">登出</string>
+    <string name="OptionalAction">加註</string>
+    <string name="disconnect">中斷連結</string>
+    <string name="signed_in_fmt">Google Account: %s</string>閒
+    <string name="title_text">Google 帳號登入\n需要權限許可</string>
+    <string name="q0501_menu_log01">Google登入</string>
+    <string name="q0501_hint03">請先登入!</string>
+    <string name="q0501_dialog_msg1">需要[定位]核准</string>
+    <string name="q0501_dialog_msg2">需要[通話]核准</string>
+    <string name="q0501_dialog_msg3">連線中</string>
+</resources>
